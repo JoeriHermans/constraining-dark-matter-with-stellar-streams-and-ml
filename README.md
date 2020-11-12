@@ -110,7 +110,25 @@ Our NeurIPS submission can be found at [`manuscripts/neurips/main.pdf`](manuscri
 
 ## Citing our work
 
-If you use our code or methodology, please cite
+If you use our code or methodology, please cite our paper
 ```
 TODO
+```
+and the original method paper
+```
+@ARTICLE{hermansSBI,
+       author = {{Hermans}, Joeri and {Begy}, Volodimir and {Louppe}, Gilles},
+        title = "{Likelihood-free MCMC with Amortized Approximate Ratio Estimators}",
+      journal = {arXiv e-prints},
+     keywords = {Statistics - Machine Learning, Computer Science - Machine Learning},
+         year = "2019",
+        month = "Mar",
+          eid = {arXiv:1903.04057},
+        pages = {arXiv:1903.04057},
+archivePrefix = {arXiv},
+       eprint = {1903.04057},
+ primaryClass = {stat.ML},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019arXiv190304057H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
 ```
