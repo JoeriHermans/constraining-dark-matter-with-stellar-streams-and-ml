@@ -89,7 +89,7 @@ A link to a detailed description of every experiment is listed. As described in 
 
 | Identifier     | Short description                                           | Link                                                      |
 | -------------- | ----------------------------------------------------------- | --------------------------------------------------------- |
-| *inference*    | Main analysis and plots.                                    | [[details]](experiments/experiment-inference/pipeline.sh)             |
+| *inference*    | Analyses and plots.                                    | [[details]](experiments/experiment-inference/pipeline.sh)             |
 | *simulations*  | A pipeline for simulating the datasets and GD-1 mocks.      | [[details]](experiments/experiment-simulations/pipeline.sh)           |
 
 
