@@ -114,7 +114,7 @@ If you use our code or methodology, please cite our paper
 ```
 TODO
 ```
-and the original method paper
+and the original method paper published at ICML2020
 ```
 @ARTICLE{hermansSBI,
        author = {{Hermans}, Joeri and {Begy}, Volodimir and {Louppe}, Gilles},
