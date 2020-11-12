@@ -1,0 +1,9 @@
+channels:
+- defaults
+dependencies:
+- pip
+- python-dateutil
+- python>=3.6.0
+- pip:
+  - papermill
+  - git+https://github.com/montefiore-ai/hypothesis.git
