@@ -95,7 +95,7 @@ A link to a detailed description of every experiment is listed. As described in 
 
 ## Notebooks
 
-Overview of a non-exclusive list of interesting notebooks in this repository.
+Overview of a non-exclusive list of interesting notebooks in this repository, not included in the main paper.
 
 | Short description | Render  |
 | ----------------- | ----- |
