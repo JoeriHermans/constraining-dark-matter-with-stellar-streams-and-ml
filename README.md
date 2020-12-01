@@ -104,9 +104,9 @@ Overview of a non-exclusive list of interesting notebooks in this repository, no
 
 ## Manuscripts
 
-The preprint is available at [`manuscripts/preprint/main.pdf`](manuscripts/preprint/main.pdf).
+The preprint is available at [`manuscript/preprint/main.pdf`](manuscript/preprint/main.pdf).
 
-Our NeurIPS submission can be found at [`manuscripts/neurips/main.pdf`](manuscript/neurips/main.pdf).
+Our NeurIPS submission can be found at [`manuscript/neurips/main.pdf`](manuscript/neurips/main.pdf).
 
 ## Citing our work
 
