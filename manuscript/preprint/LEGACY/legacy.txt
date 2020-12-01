@@ -1,0 +1,7 @@
+% This folder holds old versions of the mnras style files.
+%
+% Newer versions are not backwards compatible and have been renamed. These old
+% copies are therefore provided as a courtesy, so old documents can continue to
+% be compiled.
+%
+% This approach was discussed with, and approved by, the TeX Users Group.
