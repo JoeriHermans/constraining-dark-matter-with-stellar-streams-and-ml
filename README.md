@@ -1,4 +1,4 @@
-![ArXiv](http://img.shields.io/badge/phys.CO-arXiv%3A2020.xxxx-xxxxx.svg)
+[![ArXiv](http://img.shields.io/badge/phys.CO-arXiv%3A2020.2011-14923.svg)](https://arxiv.org/abs/2011.14923)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JoeriHermans/constraining-dark-matter-with-stellar-streams-and-ml/master?filepath=notebooks%2F01_overview.ipynb)
 
 We put forward several techniques and guidelines for the application of (amortized) neural simulation-based
