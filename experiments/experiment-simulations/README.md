@@ -1,1 +1,1 @@
-The simulation code in this directory was originally conceived by ![Jo Bovy](https://github.com/jobovy) and Nilanjan Banik. The original codebase can be found ![here](https://github.com/nbanik/Baryonic-effects-on-Pal5).
+The simulation code in this directory was originally conceived by [Jo Bovy](https://github.com/jobovy) and Nilanjan Banik. The original codebase can be found [here](https://github.com/nbanik/Baryonic-effects-on-Pal5).

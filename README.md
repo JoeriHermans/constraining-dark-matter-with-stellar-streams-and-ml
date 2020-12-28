@@ -146,6 +146,6 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
-The simulation model uses ![`galpy`](https://github.com/jobovy/galpy) extensively, and
-was originally conceived by ![Jo Bovy](https://github.com/jobovy) and Nilanjan Banik.
-We adapted their ![codebase](https://github.com/nbanik/Baryonic-effects-on-Pal5) to fit our purposes.
+The simulation model uses [`galpy`](https://github.com/jobovy/galpy) extensively, and
+was originally conceived by [Jo Bovy](https://github.com/jobovy) and Nilanjan Banik.
+We adapted their [codebase](https://github.com/nbanik/Baryonic-effects-on-Pal5) to fit our purposes.
