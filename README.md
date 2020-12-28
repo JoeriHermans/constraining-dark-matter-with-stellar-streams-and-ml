@@ -147,5 +147,5 @@ archivePrefix = {arXiv},
 }
 ```
 The simulation model uses [`galpy`](https://github.com/jobovy/galpy) extensively, and
-was originally conceived by [Jo Bovy](https://github.com/jobovy) and Nilanjan Banik.
+was originally conceived by [Jo Bovy](https://github.com/jobovy) and ![Nilanjan Banik](https://github.com/nbanik).
 We adapted their [codebase](https://github.com/nbanik/Baryonic-effects-on-Pal5) to fit our purposes.
