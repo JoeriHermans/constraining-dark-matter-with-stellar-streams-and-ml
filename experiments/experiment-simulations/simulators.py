@@ -1,3 +1,7 @@
+r"""
+Code adapted from from Jo Bovy and Nilanjan Banik.
+"""
+
 import galpy
 import gd1_util
 import glob

@@ -27,7 +27,7 @@ The Slurm arguments you typically use in your batch submission scripts will flaw
 - [Pipelines](#pipelines)
 - [Notebooks](#notebooks)
 - [Manuscripts](#manuscripts)
-- [Citing](#citing-our-work)
+- [Attribution](#attribution)
 
 ## Demonstration notebooks
 
@@ -108,11 +108,25 @@ The preprint is available at [`manuscript/preprint/main.pdf`](manuscript/preprin
 
 Our NeurIPS submission can be found at [`manuscript/neurips/main.pdf`](manuscript/neurips/main.pdf).
 
-## Citing our work
+## Attribution
 
 If you use our code or methodology, please cite our paper
 ```
-TODO
+@ARTICLE{2020arXiv201114923H,
+       author = {{Hermans}, Joeri and {Banik}, Nilanjan and {Weniger}, Christoph and {Bertone}, Gianfranco and {Louppe}, Gilles},
+        title = "{Towards constraining warm dark matter with stellar streams through neural simulation-based inference}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics, Statistics - Machine Learning},
+         year = 2020,
+        month = nov,
+          eid = {arXiv:2011.14923},
+        pages = {arXiv:2011.14923},
+archivePrefix = {arXiv},
+       eprint = {2011.14923},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2020arXiv201114923H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
 ```
 and the original method paper published at ICML2020
 ```
@@ -132,3 +146,6 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
+The simulation model uses ![`galpy`](https://github.com/jobovy/galpy) extensively, and
+was originally conceived by ![Jo Bovy](https://github.com/jobovy) and Nilanjan Banik.
+We adapted their ![codebase](https://github.com/nbanik/Baryonic-effects-on-Pal5) to fit our purposes.
